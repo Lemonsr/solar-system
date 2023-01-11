@@ -1,6 +1,6 @@
 # Solar System
 
-Virtual Orrery and Real Time Rendering. This assignment requires students to develop a virtual orrery that animates and renders the relative motions of the Sun, Earth and Moon against a starry backdrop by applying shading and lighting.
+Virtual Orrery and Real Time Rendering. A virtual orrery that animates and renders the relative motions of the Sun, Earth and Moon against a starry backdrop by applying shading and lighting.
 
 ![planet](453-skeleton/planet.png)
 
